@@ -4,7 +4,7 @@
 
 ---
 
-Full-Stack Developer with 4+ years building production web and mobile applications. Focused on Next.js, React, React Native, TypeScript, and modern tooling — from UI and animations to backend, databases, and payments.
+Full-Stack Developer with 4+ years building production web and mobile applications. Focused on Next.js, React, React Native, TypeScript, and modern tooling - from UI and animations to backend, databases, and payments.
 
 ### Links
 
@@ -27,6 +27,9 @@ Full-Stack Developer with 4+ years building production web and mobile applicatio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-292524?style=for-the-badge&logoColor=FFCC33)
+![tRPC](https://img.shields.io/badge/tRPC-3988CC?style=for-the-badge&logo=trpc&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-0EA5E9?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -38,12 +41,6 @@ Full-Stack Developer with 4+ years building production web and mobile applicatio
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AltinKukaj&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" width="400" />
-
 ---
 
-*Prizren, Kosovo*
-
-[![Profile views](https://visitcount.itsvg.in/api?id=AltinKukaj&icon=0&color=0)](https://visitcount.itsvg.in)
+*Prizren, Kosovo* 🇽🇰
