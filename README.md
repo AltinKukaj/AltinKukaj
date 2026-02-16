@@ -43,6 +43,6 @@ Full-Stack Developer with 4+ years building production web and mobile applicatio
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AltinKukaj&theme=transparent&hide_border=true&border_radius=0&card_width=450)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AltinKukaj&theme=transparent&hide_border=true&border_radius=0&card_width=495&card_height=195" alt="GitHub Streak" width="495" height="195" /></a>
 
 *Prizren, Kosovo* 🇽🇰
