@@ -8,6 +8,7 @@ Full-Stack Developer with 4+ years building production web and mobile applicatio
 
 ### Links
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AltinKukaj&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 [![CV](https://img.shields.io/badge/CV-PDF-8B5CF6?style=for-the-badge&logo=documents&logoColor=white)](https://github.com/AltinKukaj/AltinKukaj/raw/main/AltinKukaj.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-altinkukaj.dev-0D9488?style=for-the-badge&logo=link&logoColor=white)](https://altinkukaj.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Altin_Kukaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/altinkukaj)
