@@ -45,6 +45,6 @@ Full-Stack Developer with 4+ years building production web and mobile applicatio
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AltinKukaj&theme=transparent&hide_border=true&border_radius=0&card_width=495&card_height=195" alt="GitHub Streak" style="width: 100%; height: auto;" /></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/781600068696014858?showDisplayName=true&theme=dark&borderRadius=12px&bg=000000)](https://discord.com/users/781600068696014858)
+[![Discord Presence](https://lanyard.cnrad.dev/api/781600068696014858?showDisplayName=true&theme=dark&borderRadius=12px&bg=0D1117)](https://discord.com/users/781600068696014858)
 
 *Prizren, Kosovo* 🇽🇰
